@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Data and code for: Social experience affects patterns of vasopressin receptor 1a expression in a way that differs by sex"
+authors:
+  - family-names: Friesen
+    given-names: Caitlin N.
+    orcid: "https://orcid.org/0000-0003-3545-6625"
+  - family-names: Selke
+    given-names: Alexandra
+  - family-names: de Vries
+    given-names: Geert J.
+  - family-names: Petrulis
+    given-names: Aras
+repository-code: "https://github.com/caitlinfriesen/Friesen_2026_experience_sex_V1aR"
+license: MIT
+version: v1.0
+date-released: "2026-05-11"
+preferred-citation:
+  type: article
+  title: "Social experience affects patterns of vasopressin receptor 1a expression in a way that differs by sex"
+  authors:
+    - family-names: Friesen
+      given-names: Caitlin N.
+    - family-names: Selke
+      given-names: Alexandra
+    - family-names: de Vries
+      given-names: Geert J.
+    - family-names: Petrulis
+      given-names: Aras
+  journal: "Hormones and Behavior"
+  year: 2026
+  doi: "10.1016/j.yhbeh.2026.105931"
