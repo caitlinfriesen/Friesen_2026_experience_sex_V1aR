@@ -13,7 +13,8 @@ authors:
   - family-names: Petrulis
     given-names: Aras
 repository-code: "https://github.com/caitlinfriesen/Friesen_2026_experience_sex_V1aR"
-license: MIT
+doi: "10.5281/zenodo.20125994"
+license: CC-BY-4.0
 version: v1.0
 date-released: "2026-05-11"
 preferred-citation:
