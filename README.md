@@ -1,14 +1,25 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
 # About the project
 
-This is a repository containing data and R code for the paper:
+  - this is a repository of an R project containing code and source data for the paper **Social experience affects patterns of vasopressin receptor 1a expression in a way that differs by sex**. Contributed by [Caitlin Friesen](https://github.com/caitlinfriesen).
 
-**Social experience affects patterns of vasopressin receptor 1a expression in a way that differs by sex**
+This repository contains the data and code for our paper:
 
+*Social experience affects patterns of vasopressin receptor 1a expression in a way that differs by sex*
 Caitlin N. Friesen, Alexandra Selke, Geert J. de Vries, Aras Petrulis
-
 Neuroscience Institute & Center for Behavioral Neuroscience, Georgia State University
-
 *Hormones and Behavior* (2026) | doi: https://doi.org/10.1016/j.yhbeh.2026.105931
+
+
+## How to cite
+
+Please cite the permanent Zenodo record for the compendium as:
+
+Friesen, C.N., Selke, A., de Vries, G.J., & Petrulis, A. (2026).
+Code documentation for Social experience affects patterns of vasopressin receptor 1a expression in a way that differs by sex 
+(v1.0). Zenodo.
 
 ---
 
@@ -58,7 +69,8 @@ If you use these data or code, please cite:
 
 ---
 
-## License
+## Acknowledgements
 
-**Code:** [MIT License](LICENSE)
-**Data and figures:** [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)
+This project is modified after 
+<https://github.com/JekelyLab/new_paper_template> and
+<https://annakrystalli.me/rrresearch/10_compendium.html>.
