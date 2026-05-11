@@ -20,6 +20,7 @@ Please cite the permanent Zenodo record for the compendium as:
 Friesen, C.N., Selke, A., de Vries, G.J., & Petrulis, A. (2026).
 Code documentation for Social experience affects patterns of vasopressin receptor 1a expression in a way that differs by sex 
 (v1.0). Zenodo.
+<https://doi.org/10.5281/zenodo.20125994>
 
 ---
 
